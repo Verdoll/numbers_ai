@@ -2,7 +2,7 @@ import pygame
 
 
 class Sqaure:
-    def __init__(self, color, x, y, width, height):
+    def __init__(self, color, x, y, width):
         self.color = color
         self.x = x
         self.y = y
